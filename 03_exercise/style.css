@@ -1,0 +1,36 @@
+nav {
+  background-color: #fbfafa;
+  height: 50px;
+  display: flex;
+  padding: 1em;
+  color: rgb(10, 8, 8);
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 1;
+  height: 10%;
+  width: 25%;
+}
+div {
+  font-size: 1.5rem;
+  border: 1px solid black;
+}
+
+body {
+  margin-top: 2em;
+  display: flex;
+
+  justify-content: center;
+  flex-direction: column;
+}
+
+main {
+  margin: 0 auto;
+  border: 1 px solid black;
+}
+h2 {
+  color: rgb(7, 139, 7);
+}
